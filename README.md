@@ -38,3 +38,6 @@ The translation
 Translating the .NET Framework tutorial into Zend Framework 2 architecture were fun and very useful. There's some part in the .NET tutorial i don't really get it right maybe because there's a dependency to the .NET framework i don't know or maybe because the authors try to promote their method but i had to finally adapt the code to ZF2. 
 
 
+You can find detailed explanations on my blog here : http://www.haclong.org/en/content/g%C3%A9rer-un-caf%C3%A9-avec-une-programmation-%C3%A9v%C3%A9nementielle.html
+
+(i messed up with the languages but you should find explanations both in french and in english for this project)
