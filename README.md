@@ -10,6 +10,8 @@ I have read few weeks ago (it was more months i believe) a very quick tutorial a
 
 I've decided to start with the same use case, based on the .NET tutorial and write the corresponding module with PHP, with Zend Framework 2.
 
+Testing gocd push too
+
 The Coffee Bar
 =======
 
